@@ -37,7 +37,7 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had to pause gif couple times because emulator was taking long time to load.
 
 ## License
 
