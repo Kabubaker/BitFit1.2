@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BitFit1 Zzz</string>
+    <style name="app_style">
+        <item name="fontFamily">casual</item>
+    </style>
+</resources>
